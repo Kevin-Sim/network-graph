@@ -6,7 +6,7 @@ Make sure up to date
 
 `git pull`
 
-2 Developers Create new branches
+Developers Create new branches
 
 `git checkout -b feature1`
 
@@ -71,7 +71,6 @@ public class Network {
 			System.out.println("git checkout master");
 			System.out.println("git merge --no-edit b" + i);
 		}
-
 	}
 }
 
