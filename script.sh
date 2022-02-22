@@ -1,6 +1,7 @@
 #!/bin/bash
 # A simple script
 
+printf "# Hello World\n" > README.md
 git init
 git add .
 git commit -m "initial commit"
