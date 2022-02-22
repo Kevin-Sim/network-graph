@@ -3,7 +3,7 @@ public class Network {
 
 	public static void main(String[] args) {
 		System.out.println("git init");
-//		System.out.println("printf \"# Hello World\\n\" > README.md");
+		System.out.println("printf \"# Hello World\\n\" > README.md");
 		System.out.println("git add .");
 		System.out.println("git commit -m \"initial commit\"");
 		//remote empty
